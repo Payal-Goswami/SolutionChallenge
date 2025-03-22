@@ -1,0 +1,61 @@
+body{
+    font-family: "Open Sans", serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.main{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+.div1{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1.5rem;
+    color: #fff;
+    overflow: hidden;
+    background: radial-gradient(circle, grey 20%, black 100%);
+
+
+
+}
+
+.image_div{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+.image_div img{
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.location{
+    font-size: 0.8rem;
+    margin: 0.3rem;
+
+}
+.skills{
+    font-size: 1rem;
+    margin: 0.3rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+i{
+    font-size: 1.5rem;
+}
+.div2{
+    padding: 15px;
+    color: rgb(65, 65, 65);
+}
+.div2 p{
+    font-size: 1.2rem;
+}

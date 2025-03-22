@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.person {
+    width: 220px;
+    /* background-color: pink; */
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+.image_div{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+.person img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-bottom: 15px;
+}
+
+.person h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.person p {
+    font-size: 1em;
+    color: #666;
+}
+
+button {
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 1.1rem;
+    color: rgb(8, 118, 162);
+}
+button a{
+    text-decoration: none;
+    color: rgb(8, 118, 162);
+}
+
