@@ -1,0 +1,111 @@
+.header-top-contact{
+    color: #000 
+}
+.header-top-contact a{
+    color: #000 !important;
+}
+
+.header-top-contact:hover{
+    font-weight: 500;
+}
+
+.header-top-contact a:hover{
+    font-weight: 500;
+}
+.reviews div{
+    text-align: center;
+    margin: 0 auto;
+}
+.reviews div h2{
+    margin: 1rem;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#home{
+    background-image: url("bgimage.jpg") !important;
+    background-size: cover;
+}
+
+
+
+.register button{
+   background-color: rgb(230, 61, 89);
+   padding: 0.5rem;
+   border: #015551;
+   margin: 0.8rem 1.2rem;
+   border-radius: 5px;
+}
+.scroll a{
+padding: 1.5rem 1.2rem!important;
+}
+.navbar-brand{
+    padding: 1.5rem !important;
+}
+
+.register button:hover{
+   background-color: rgb(223, 28, 60);
+   /* background-color: #038d86; */
+}
+.register button a{
+   color: #fff !important;
+
+
+}
+
+.single-how-works{
+    padding: 20px 25px;
+}
+
+.single-how-works p{
+    margin-bottom: 0;
+}
+
+.single-how-works:hover p button{
+    color: #000;
+
+}
+
+.single-how-works h2 a{
+    margin: 15px 0px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: nowrap; 
+    overflow-x: auto; 
+    overflow-y: hidden; 
+    scroll-snap-type: x mandatory;
+    gap: 10px; 
+}
+
+.row::-webkit-scrollbar {
+    display: none; 
+}
+
+.col-md-4 {
+    min-width: 300px; 
+    flex: 0 0 auto; 
+    scroll-snap-align: start;
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 10px;
+    text-align: center;
+} 
+.single-how-works:hover{
+    background-color: #038d86;
+}
+
+/* .container{
+    background-image: url("hackbg.jpg");
+    background-size: auto;
+} */
+
+/* #navbar-menu{
+    background-image: url("hackbg.jpg");
+    background-size: auto;
+}
+ */
