@@ -54,7 +54,7 @@ for(btn of btns){
                 let readLessBtn3 = document.getElementById("C");
                 
                 let fullText3 =
-                "A professional networking platform that allows individuals and organizations to connect, share, and grow their professional presence online. It enables users to create and maintain profiles showcasing their career experiences, education, skills, and accomplishments.";
+                "A professional networking platform that allows individuals and organizations to connect, share, and grow their professional presence online. It enables users to create and maintain profiles showcasing their career experiences, education, skills, and accomplishments";
                 
                 let shortText3 = "A professional networking platform";
                 
