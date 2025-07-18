@@ -51,5 +51,5 @@ Our solution directly addresses these challenges by creating a **one-stop platfo
 - Unemployed and underemployed individuals
 - People from underserved or rural areas
 
-Please take a look at the project: [Demo Link](https://payal-goswami.github.io/SolutionChallenge/)
+Website : [Demo Link](https://payal-goswami.github.io/SolutionChallenge/)
 
